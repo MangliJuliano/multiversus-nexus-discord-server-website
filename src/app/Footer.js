@@ -68,7 +68,7 @@ const Footer = () => {
                       href="terms-of-use"
                       className="hover:underline hover:text-orange-500 duration-300"
                     >
-                      Terms of Service
+                      Terms of Use
                     </a>
                   </li>
                 </ul>

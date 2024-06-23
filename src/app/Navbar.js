@@ -122,7 +122,7 @@ const navigation = {
     },
   ],
   pages: [
-    { name: 'Join Us!', href: '#' },
+    { name: 'Join Us!', href: 'https://discord.gg/se4CYmtE4w' },
   ],
 }
 
